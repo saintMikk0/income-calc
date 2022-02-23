@@ -153,7 +153,7 @@
 			}), {}, {
 				width: "51px",
 				height: "13px",
-				background: "url(https://github.com/Ephektiv/income-calc/raw/main/calc.tif)",
+				background: "url(https://github.com/Ephektiv/income-calc/raw/main/calc.jpg)",
 				backgroundRepeat: "no-repeat"
 			}),
 			logo: o(o({}, i), {}, {
