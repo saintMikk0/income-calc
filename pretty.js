@@ -1,6 +1,6 @@
 ! function() {
 	"use strict";
-	var t = "https://www.omnicalculator.com";
+	var t = "https://github.com/Ephektiv/income-calc/";
 
 	function e(t) {
 		var e, r;
@@ -153,7 +153,7 @@
 			}), {}, {
 				width: "51px",
 				height: "13px",
-				background: "url(https://cdn.omnicalculator.com/images/omni-db2e5a9837.svg)",
+				background: "url(https://github.com/Ephektiv/income-calc/raw/main/calc.tif)",
 				backgroundRepeat: "no-repeat"
 			}),
 			logo: o(o({}, i), {}, {
